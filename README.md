@@ -1,5 +1,6 @@
 <h1> AWS-CloudTrail-Log-Analysis</h1>
-I try to confirm a breach by analyzing CloudTrail logs, identify any compromised AWS service, and find any data that was exfiltrated.
+<h2>Objective</h2>
+Work to confirm a breach by analyzing CloudTrail logs, identify any compromised AWS service, and find any data that was exfiltrated.
 
 
 <h2>Description</h2>
